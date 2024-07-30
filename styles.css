@@ -18,18 +18,8 @@ body {
 .principa{
     background-image: url(img/background.png);
     background-repeat: no-repeat;
-    background-size: contain;
+background-size: contain;
 }
-
 .container{
     height: 100vh;
 }
-
-.container_botao{
-    background-color: var(--botão-azul);
-    border-radius: 5px;
-    padding: 1em;
-    colo:var(--branco-principal);
-    display: block;
-}
-
